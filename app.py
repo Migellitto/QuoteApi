@@ -2,6 +2,7 @@ from api import app
 from api.handlers import author
 from api.handlers import quote
 from config import Config
+from api.handlers import user
 
 
 if __name__ == '__main__':
